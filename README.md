@@ -126,18 +126,16 @@ O MetaFlow é um WebApp, fiz pensando "Poja, tenho tantos prjetos, vou acabar es
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-bhc5sgoqw-carlos-eduardos-projects-5a51ea5c.vercel.app/api?username=EduuGah&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117&locale=pt-br" alt="stats"/>
-<img height="180em" src="https://<img height="180em" src="github-readme-stats-bhc5sgoqw-carlos-eduardos-projects-5a51ea5c.vercel.app/api/top-langs/?username=EduuGah&layout=compact&langs_count=8&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&locale=pt-br" alt="top langs"/>
-/api/top-langs/?username=EduuGah&layout=compact&langs_count=8&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&locale=pt-br" alt="top langs"/>
+<img height="180em" src="https://github-readme-stats-carlos-eduardos-projects-5a51ea5c.vercel.app/api?username=EduuGah&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117&locale=pt-br" alt="stats"/>
+<img height="180em" src="https://github-readme-stats-carlos-eduardos-projects-5a51ea5c.vercel.app/api/top-langs/?username=EduuGah&layout=compact&langs_count=8&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&locale=pt-br" alt="top langs"/>
 
 <br/><br/>
 
 <a href="https://github.com/EduuGah/ForgeFlow">
-  <img src="https://<img height="180em" src="github-readme-stats-bhc5sgoqw-carlos-eduardos-projects-5a51ea5c.vercel.app/api/top-langs/?username=EduuGah&layout=compact&langs_count=8&hide_border=true&title_color=00D9FF&text_color=C9D1D9&bg_color=0D1117&locale=pt-br" alt="top langs"/>
-/api/pin/?username=EduuGah&repo=ForgeFlow&hide_border=true&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="forgeflow"/>
+  <img src="https://github-readme-stats-carlos-eduardos-projects-5a51ea5c.vercel.app/api/pin/?username=EduuGah&repo=ForgeFlow&hide_border=true&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="forgeflow"/>
 </a>
 <a href="https://github.com/EduuGah/MetaFlow">
-  <img src="https://SUA-INSTANCIA.vercel.app/api/pin/?username=EduuGah&repo=MetaFlow&hide_border=true&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="metaflow"/>
+  <img src="https://github-readme-stats-carlos-eduardos-projects-5a51ea5c.vercel.app/api/pin/?username=EduuGah&repo=MetaFlow&hide_border=true&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="metaflow"/>
 </a>
 
 </div>
@@ -170,7 +168,20 @@ colaborar em projetos ou ouvir um feedback sobre o que estou fazendo.
 
 <br/><br/>
 
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mz7cwspff4speax2api7mfcyai&cover_image=true&theme=compact&show_offline=false&background_color=0D1117&bar_color=8B5CF6&bar_color_cover=true" alt="spotify"/>
+## 🎧 &nbsp;Ouvindo agora
+
+Quase sempre tem música rolando enquanto eu programo.<br/>
+Esse é o som que está tocando (ou o último que tocou):
+
+<br/>
+
+<a href="https://open.spotify.com/user/31mz7cwspff4speax2api7mfcyai" target="_blank">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31mz7cwspff4speax2api7mfcyai&cover_image=true&theme=compact&show_offline=false&background_color=0D1117&bar_color=8B5CF6&bar_color_cover=true" alt="Spotify — tocando agora"/>
+</a>
+
+<br/>
+
+<a href="https://open.spotify.com/user/31mz7cwspff4speax2api7mfcyai" target="_blank"><img src="https://img.shields.io/badge/Meu%20perfil%20no%20Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white&labelColor=0D1117" alt="perfil spotify"/></a>
 
 <br/><br/>
 
