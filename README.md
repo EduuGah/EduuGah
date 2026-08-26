@@ -120,8 +120,6 @@ O MetaFlow é um WebApp, fiz pensando "Poja, tenho tantos prjetos, vou acabar es
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EduuGah&bg_color=0D1117&color=00D9FF&line=8B5CF6&point=FFFFFF&area=true&area_color=8B5CF6&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20dos%20%C3%BAltimos%2031%20dias" width="100%" alt="activity graph"/>
-
 </div>
 
 <div align="center">
