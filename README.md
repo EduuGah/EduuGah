@@ -131,13 +131,6 @@ O MetaFlow é um WebApp, fiz pensando "Poja, tenho tantos prjetos, vou acabar es
 
 <br/><br/>
 
-<a href="https://github.com/EduuGah/ForgeFlow">
-  <img src="https://github-readme-stats-carlos-eduardos-projects-5a51ea5c.vercel.app/api/pin/?username=EduuGah&repo=ForgeFlow&hide_border=true&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="forgeflow"/>
-</a>
-<a href="https://github.com/EduuGah/MetaFlow">
-  <img src="https://github-readme-stats-carlos-eduardos-projects-5a51ea5c.vercel.app/api/pin/?username=EduuGah&repo=MetaFlow&hide_border=true&title_color=00D9FF&icon_color=8B5CF6&text_color=C9D1D9&bg_color=0D1117" alt="metaflow"/>
-</a>
-
 </div>
 
 <br/>
