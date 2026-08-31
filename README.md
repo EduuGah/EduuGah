@@ -103,7 +103,7 @@ jornada, folgas e bloqueios em um painel próprio.
 <!-- IMPORTANTE: você tem dois perfis no LinkedIn (in/eduugah e in/carlos-eduardo-863015377).
      Escolha um, defina a URL personalizada e use o mesmo link aqui e na barra lateral do GitHub. -->
 
-- LinkedIn: [EduuGah]([https://www.linkedin.com/in/SEU-PERFIL/](https://www.linkedin.com/in/carlos-eduardo-863015377/))
+- LinkedIn: [EduuGah](https://www.linkedin.com/in/EduuGah/](https://www.linkedin.com/in/carlos-eduardo-863015377/))
 - E-mail: edugah1809@gmail.com
 
 Aberto a oportunidades como desenvolvedor front-end júnior ou estágio.
